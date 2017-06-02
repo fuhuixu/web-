@@ -1,0 +1,4 @@
+.image{width:200px; height:160px;float: left;padding: 20px;display: inline;margin: 3px;border: 1px solid #bebebe;}
+.desc{text-align: center;width:200px;}
+a:link img{opacity: 0.5;}
+a:hover img{opacity: 1;border: 1px sulid #333;}
