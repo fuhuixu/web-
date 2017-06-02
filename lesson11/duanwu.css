@@ -1,0 +1,21 @@
+*{padding: 0;margin: 0;}
+body{font:12px/22px /*arail sanf*/"宋体";color:#333;}
+.search{width: 500px;margin-top:0 auto;float: right;}
+ul{list-style: none;}
+a{text-decoration: none;color: #333;}
+.clear{clear: left;}
+.logo{width: 1000px;margin: 0px auto;}
+.logo img{wwidth:200px;height: 200px;}
+.menu{width: 100%;height: 40px;background: #269F7D;}
+.menu ul{width: 1000px;margin: 0px auto;}
+.menu ul li{float: left;width: 120px;line-height: 40px;}
+.menu a{font-size: 16px;color: #fff;}
+.banner img{width: 100%;height: auto;}
+.main{width: 1000px;margin: 0px auto;}
+.m_lefter{width: 248px;height:298px;float: left;border: 1px solid #ccc;}
+.m_righter{width: 748px;height:298px;float: left;border: 1px solid #ccc;}
+a:link img{opacity: 0.5;}
+a:hover img{opacity: 1;}
+.list{width: 1000px;margin: 0px auto;}
+.list_img{width: 230px;height: 300px;float: left;margin: 10px;}
+.footer{height: 100px;background: #666;color: #aaa;text-align: center;}
